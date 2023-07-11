@@ -10,7 +10,7 @@ Detection and Exploitation:
 
 1. Login to the dashboard 
 2. Go to Racks and click on the action button => add a new book or edit book 
-2. Inject payload : "' test <img src=\"" onerror="alert(1)"> to Title of book parameter and submit it. 
+2. Inject payload : "' test <img src=\"" onerror="alert(5)"> to Title of book parameter and submit it. 
 3. Go to Borrowing and add a new Borrowing or edit Borrowring then malicious is execute
 
 
